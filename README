@@ -11,7 +11,7 @@ node ace migration:run
 
 ESSE COMANDO GERA A DATABASE
 
-E PRA INICIAR O MINESHOP:
+E INICIAR O MINESHOP:
 
 node ace serve
 
