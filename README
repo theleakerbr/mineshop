@@ -1,0 +1,16 @@
+**MineShop** 2
+https://mineshop.com.br/
+
+PARA INSTALAR:
+
+npm install
+
+EDITE O ARQUIVO .env E COLOQUE OS DADOS DA DATABASE E DEPOIS DIGITA:
+
+node ace migration:run
+
+ESSE COMANDO GERA A DATABASE
+
+E PRA INICIAR O MINESHOP:
+
+node ace serve
